@@ -61,4 +61,15 @@ typings/
 .next
 
 static
-child
+
+child/legacy-app/node_modules
+child/legacy-app/dist
+child/legacy-app/.git
+
+child/navbar/node_modules
+child/navbar/dist
+child/navbar/.git
+
+child/new-project/node_modules
+child/new-project/dist
+child/new-project/.git
